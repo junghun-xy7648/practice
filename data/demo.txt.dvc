@@ -3,3 +3,4 @@ outs:
   size: 19
   hash: md5
   path: demo.txt
+  isexec: true
